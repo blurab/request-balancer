@@ -1,0 +1,12 @@
+{
+	"moz"        : true,
+	"node"		 : true,
+	"globals"      : {
+    	"Promise"   : true,
+    	"describe"  : true,
+    	"it"        : true,
+    	"after"     : true,
+    	"before"    : true
+	}
+}
+
